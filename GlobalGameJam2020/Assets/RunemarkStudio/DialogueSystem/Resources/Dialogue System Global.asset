@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70dd0a820e56f2c408255b365ad0e3e6, type: 3}
+  m_Name: Dialogue System Global
+  m_EditorClassIdentifier: 
+  Variables:
+    _variables:
+    - _name: upgradeOption
+      _idSuffix: -2/2/2020 10:22:16 AM-5643
+      _group: Default
+      _type: System.Int32
+      Save: 0
+      DefaultValue:
+        _serializedObject: {fileID: 0}
+        _serializedString: AAEAAAD/////AQAAAAAAAAAEAQAAAAxTeXN0ZW0uSW50MzIBAAAAB21fdmFsdWUACAAAAAAL
+      _value:
+        _serializedObject: {fileID: 0}
+        _serializedString: AAEAAAD/////AQAAAAAAAAAEAQAAAAxTeXN0ZW0uSW50MzIBAAAAB21fdmFsdWUACAAAAAAL
+    - _name: hasEnoughParts
+      _idSuffix: -2/2/2020 11:08:29 AM-9977
+      _group: Default
+      _type: System.Boolean
+      Save: 0
+      DefaultValue:
+        _serializedObject: {fileID: 0}
+        _serializedString: AAEAAAD/////AQAAAAAAAAAEAQAAAA5TeXN0ZW0uQm9vbGVhbgEAAAAHbV92YWx1ZQABAAs=
+      _value:
+        _serializedObject: {fileID: 0}
+        _serializedString: AAEAAAD/////AQAAAAAAAAAEAQAAAA5TeXN0ZW0uQm9vbGVhbgEAAAAHbV92YWx1ZQABAAs=
+    - _name: playerWins
+      _idSuffix: -2/2/2020 12:01:26 PM-8846
+      _group: Default
+      _type: System.Boolean
+      Save: 0
+      DefaultValue:
+        _serializedObject: {fileID: 0}
+        _serializedString: AAEAAAD/////AQAAAAAAAAAEAQAAAA5TeXN0ZW0uQm9vbGVhbgEAAAAHbV92YWx1ZQABAAs=
+      _value:
+        _serializedObject: {fileID: 0}
+        _serializedString: AAEAAAD/////AQAAAAAAAAAEAQAAAA5TeXN0ZW0uQm9vbGVhbgEAAAAHbV92YWx1ZQABAAs=
+    - _name: botIdentity
+      _idSuffix: -2/2/2020 12:07:18 PM-6877
+      _group: Default
+      _type: System.Int32
+      Save: 0
+      DefaultValue:
+        _serializedObject: {fileID: 0}
+        _serializedString: AAEAAAD/////AQAAAAAAAAAEAQAAAAxTeXN0ZW0uSW50MzIBAAAAB21fdmFsdWUACAAAAAAL
+      _value:
+        _serializedObject: {fileID: 0}
+        _serializedString: AAEAAAD/////AQAAAAAAAAAEAQAAAAxTeXN0ZW0uSW50MzIBAAAAB21fdmFsdWUACAAAAAAL
+    owner: {fileID: 0}
